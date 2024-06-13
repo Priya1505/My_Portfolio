@@ -24,6 +24,10 @@ export const Contact = () => {
             linkedin.com
           </a>
         </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
+          <a href="https://github.com/Priya1505?tab=repositories">github.com</a>
+        </li>
       </ul>
     </footer>
   );

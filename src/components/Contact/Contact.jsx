@@ -9,11 +9,12 @@ export const Contact = () => {
       <div className={styles.text}>
         <h2>Contact</h2>
         <p>Feel free to reach out!</p>
+        <h3>&copy; 2024 Priya Yadav. All rights reserved.</h3>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:myemail@email.com">email@email.com</a>
+          <a href="mailto:myemail@email.com">priya.yadav.sbg@email.com</a>
         </li>
         <li className={styles.link}>
           <img

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TextUtil",
+    "imageSrc": "projects/project.png",
+    "description": "TextUtils is a React website to manipulate text such as converting to uppercase and lowercase, removing extra spaces and copy to clipboard. This website has color themes and dark mode.",
+    "skills": ["ReactJS", "HTML", "CSS" ,"JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "E-commerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "An ecommerce website is an online store where customers can find products, browse offerings, and place purchases online. It facilitates the transaction between a buyer and seller.",
+    "skills": ["ReactJS", "JavaScript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Recipees",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an Website. Collection of recipes, instructions, and information about the preparation and serving of foods..",
+    "skills": ["ReactJS", "JavaScript", "Node", "HTML","CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
